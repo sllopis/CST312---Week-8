@@ -20,28 +20,28 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __SQL INJECTION
+Vulnerability #1: __SQL INJECTION__
 ~> https://media.giphy.com/media/9SIqlObGfbDFbVnLFk/giphy.gif
 
-Vulnerability #2: __SESSION HIJACKING
+Vulnerability #2: __SESSION HIJACKING__
 ~> https://media.giphy.com/media/MofCqxHfAFkrKbaqXQ/giphy.gif
 
 
 ## Green
 
-Vulnerability #1: __STORED XSS
+Vulnerability #1: __STORED XSS__
 ~> https://media.giphy.com/media/1JLcy9iiI6i8On8MYg/giphy.gif
 
-Vulnerability #2:  __USER ENUMERATION
+Vulnerability #2:  __USER ENUMERATION__
 ~> https://media.giphy.com/media/jxLLGJ5YEtWkHIKDaH/giphy.gif
 
 
 ## Red
 
-Vulnerability #1: __INSECURE DIRECT OBJECT REFERENCE (IDOR)
+Vulnerability #1: __INSECURE DIRECT OBJECT REFERENCE (IDOR)__
 ~> https://media.giphy.com/media/uBn5zvNhLvLtYAmnXM/giphy.gif
 
-Vulnerability #2:  __Cross Site Request Forgery (CSRF)
+Vulnerability #2:  __Cross Site Request Forgery (CSRF)__
 ~> https://media.giphy.com/media/YFFJB02b9oEmkP7MIy/giphy.gif
 
 
